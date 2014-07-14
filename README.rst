@@ -10,7 +10,8 @@ Usage
 
 Install with easy_install::
 
-    easy_install motop
+    sudo apt-get install python-setuptools  # if easy_install isn't installed
+    sudo easy_install motop
 
 Install with pip::
 
